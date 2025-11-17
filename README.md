@@ -8,12 +8,12 @@ A multilingual static site generator written entirely in Rust. Create beautiful 
 
 ### Key Features
 
-1. **Pure Rust** - High performance and security
-2. **Multilingual Support** - 12+ languages in a single file
-3. **Deployment** - Built-in GitHub/GitLab Pages and mirror support
-4. **Extensibility** - Easy to add new languages and themes
-5. **User-Friendly** - Intuitive commands
-6. **Flexibility** - Complete freedom in configuration
+- 🌍 **Multilingual Support** - 12+ languages in one file
+- 🎨 **Custom Themes** - Complete freedom in design
+- 🔄 **Dynamic Language Switching** - Without page reload
+- 📱 **Responsive Design** - Works on all devices
+- ⚡ **Pure Rust** - High performance and reliability
+- 🏗️ **Extensible Architecture** - Easy to add new features
 
 ### Who is it for?
 
@@ -150,15 +150,6 @@ enabled = false
 ├── nervaweb.exe               # Generator executable
 └── README.md
 ```
-
-### Features
-
-- 🌍 **Multilingual Support** - 12+ languages in one file
-- 🎨 **Custom Themes** - Complete freedom in design
-- 🔄 **Dynamic Language Switching** - Without page reload
-- 📱 **Responsive Design** - Works on all devices
-- ⚡ **Pure Rust** - High performance and reliability
-- 🏗️ **Extensible Architecture** - Easy to add new features
 
 ## 📚 Content
 
@@ -839,8 +830,6 @@ Solution: Install Xcode Command Line Tools
 3. **Add languages gradually** - translate articles step by step
 4. **Test locally** - use `python3 -m http.server 8000` for checking
 5. **Make backups** - `nervaweb clear` removes all generated files
-
-### 📞 Support
 
 - 📖 **Documentation:** README.md
 - 🐛 **Bugs:** Create issues in repository
